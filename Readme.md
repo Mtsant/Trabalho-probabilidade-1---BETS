@@ -18,8 +18,6 @@ Simulador acadêmico - somente créditos fictícios.
 |Arquivo|Conteúdo|
 |-|-|
 |tigrIFES.xlsm|Simulador em VBA (macros) com os cinco experimentos, tabelas e gráficos|
-|tigrIFES.bas|Código VBA exportado (cópia de segurança do código)|
-|resultados/|CSVs dos resultados e gráficos exportados (PNG)|
 |relatorio.pdf|Relatório do grupo|
 |README.md|Este arquivo|
 
